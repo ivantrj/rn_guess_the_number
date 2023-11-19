@@ -37,13 +37,16 @@ Guess the Number is a classic number guessing game that provides an engaging exp
      npx react-native run-android
      ```
 
+## Screenshots
+
+![IMG_4900](https://github.com/ivantrj/rn_guess_the_number/assets/11463485/d0cafa0c-de67-48fa-b77f-de6406c2b329)
+![IMG_4901](https://github.com/ivantrj/rn_guess_the_number/assets/11463485/d0f3d2d4-2cba-434a-bf2a-6706c08def61)
+![IMG_4902](https://github.com/ivantrj/rn_guess_the_number/assets/11463485/17529d1c-089e-43d3-85f7-7d1d63a6ad90)
+
+
 ## Contributing
 
 We welcome contributions from the community to improve and enhance the Guess the Number app. If you find any bugs, have feature requests, or would like to contribute code, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
