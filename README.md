@@ -39,9 +39,10 @@ Guess the Number is a classic number guessing game that provides an engaging exp
 
 ## Screenshots
 
-![IMG_4900](https://github.com/ivantrj/rn_guess_the_number/assets/11463485/d0cafa0c-de67-48fa-b77f-de6406c2b329)
-![IMG_4901](https://github.com/ivantrj/rn_guess_the_number/assets/11463485/d0f3d2d4-2cba-434a-bf2a-6706c08def61)
-![IMG_4902](https://github.com/ivantrj/rn_guess_the_number/assets/11463485/17529d1c-089e-43d3-85f7-7d1d63a6ad90)
+![IMG_4900](https://github.com/ivantrj/rn_guess_the_number/assets/11463485/12477244-7277-4915-ab5b-7052a2e39aff)
+![IMG_4901](https://github.com/ivantrj/rn_guess_the_number/assets/11463485/4e3e506e-70f9-4ac0-9478-e90fb5468df8)
+![IMG_4902](https://github.com/ivantrj/rn_guess_the_number/assets/11463485/c310e57e-6250-473c-b89f-3f977e1eb7cb)
+
 
 
 ## Contributing
