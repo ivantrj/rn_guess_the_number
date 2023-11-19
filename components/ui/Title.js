@@ -1,4 +1,4 @@
-import { View, Text } from "react-native";
+import { View, Text, StyleSheet } from "react-native";
 import React from "react";
 
 export default function Title({ children }) {
@@ -9,7 +9,7 @@ export default function Title({ children }) {
   );
 }
 
-const styles = {
+const styles = StyleSheet.create({
   title: {
     fontFamily: "open-sans-bold",
     fontSize: 24,
@@ -21,4 +21,4 @@ const styles = {
     padding: 12,
     maxWidth: "80%",
   },
-};
+});
