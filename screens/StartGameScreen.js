@@ -48,7 +48,7 @@ export default function StartGameScreen({ onPickedNumber }) {
     <ScrollView style={styles.screen}>
       <KeyboardAvoidingView style={styles.screen} behavior="position">
         <View style={[styles.rootContainer, { marginTop: marginTopDistance }]}>
-          <Title>Guess My Number</Title>
+          <Title>GUESS MY NUMBER</Title>
           <Card>
             <InstructionText style={styles.instructionText}>
               Enter a number
@@ -92,10 +92,10 @@ const styles = StyleSheet.create({
     height: 50,
     width: 50,
     fontSize: 32,
-    borderBottomColor: Colors.accent500,
+    borderBottomColor: "white",
     borderBottomWidth: 2,
-    color: Colors.accent500,
-    marginVertical: 8,
+    color: "white",
+    marginVertical: 16,
     fontWeight: "bold",
     textAlign: "center",
   },

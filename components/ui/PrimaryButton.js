@@ -18,19 +18,21 @@ export default function PrimaryButton({ children, onPress }) {
 
 const styles = StyleSheet.create({
   buttonContainer: {
-    backgroundColor: Colors.accent500,
+    backgroundColor: "white",
     paddingVertical: 8,
     paddingHorizontal: 16,
     margin: 4,
-    borderRadius: 28,
-    elevation: 3,
-    shadowColor: "black",
-    shadowOffset: { width: 1, height: 1 },
-    shadowRadius: 2,
-    shadowOpacity: 0.4,
+    borderRadius: 8,
+    // elevation: 3,
+    // shadowColor: "black",
+    // shadowOffset: { width: 1, height: 1 },
+    // shadowRadius: 2,
+    // shadowOpacity: 0.4,
   },
   buttonText: {
-    // color: "white",
+    color: "darkgrey",
     textAlign: "center",
+    fontSize: 16,
+    fontFamily: "nunito-light",
   },
 });

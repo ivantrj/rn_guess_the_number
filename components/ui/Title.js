@@ -11,13 +11,13 @@ export default function Title({ children }) {
 
 const styles = StyleSheet.create({
   title: {
-    fontFamily: "open-sans-bold",
-    fontSize: 24,
+    fontFamily: "nunito-extra-bold",
+    fontSize: 26,
     fontWeight: "bold",
     color: "white",
     textAlign: "center",
-    borderWidth: 2,
-    borderColor: "white",
+    // borderWidth: 2,
+    // borderColor: "white",
     padding: 12,
     maxWidth: "80%",
   },

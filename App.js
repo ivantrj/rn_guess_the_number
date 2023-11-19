@@ -15,8 +15,10 @@ export default function App() {
   const [guessRounds, setGuessRounds] = useState(0);
 
   const [fontsLoaded] = useFonts({
-    "open-sans": require("./assets/fonts/OpenSans-Regular.ttf"),
-    "open-sans-bold": require("./assets/fonts/OpenSans-Bold.ttf"),
+    "nunito-black": require("./assets/fonts/Nunito-Black.ttf"),
+    "nunito-extra-bold": require("./assets/fonts/Nunito-ExtraBold.ttf"),
+    "nunito-light": require("./assets/fonts/Nunito-Light.ttf"),
+    "nunito-extra-light": require("./assets/fonts/Nunito-ExtraLight.ttf"),
   });
 
   if (!fontsLoaded) {
