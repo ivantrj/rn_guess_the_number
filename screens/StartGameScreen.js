@@ -98,6 +98,7 @@ const styles = StyleSheet.create({
     marginVertical: 16,
     fontWeight: "bold",
     textAlign: "center",
+    fontFamily: "nunito-extra-bold",
   },
   buttonsContainer: {
     flexDirection: "row",
